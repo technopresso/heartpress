@@ -28,8 +28,13 @@ We use secure servers, SSL encryption, and restricted access.
 ## Your Rights
 You may access, update, export, or delete your data.
 
+### Account Deletion
+You may permanently delete your Heartpress account and personal data using the following link:
+
+https://sites.google.com/view/heartpress-user-deletion
+
 ## Age Restriction
 18+ only.
 
 ## Contact
-admin@technopresso.com
+technopressogroup@gmail.com
