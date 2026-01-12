@@ -32,4 +32,4 @@ You may access, update, export, or delete your data.
 18+ only.
 
 ## Contact
-support@technopresso.com
+admin@technopresso.com
